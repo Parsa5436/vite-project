@@ -1,0 +1,62 @@
+{
+  "users": [
+    {
+      "id": "4710",
+      "email": "donya.mirabdolahi@gmail.com",
+      "password": "1234",
+      "boards": [
+        {
+          "id": "dbc6767d-45c2-4731-8cbf-91e2b7c1823f",
+          "name": "First Board",
+          "columns": {
+            "column-1": {
+              "name": "To Do",
+              "items": []
+            },
+            "column-2": {
+              "name": "In Progress",
+              "items": []
+            },
+            "column-3": {
+              "name": "Done",
+              "items": []
+            }
+          }
+        },
+        {
+          "id": "424a1267-c1ad-4d07-a048-aa860e6fed7f",
+          "name": "Second Board",
+          "columns": {
+            "column-1": {
+              "name": "To Do",
+              "items": []
+            },
+            "column-2": {
+              "name": "In Progress",
+              "items": []
+            },
+            "column-3": {
+              "name": "Done",
+              "items": []
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "1795",
+      "email": "hi@gmail.com",
+      "password": "1111"
+    },
+    {
+      "id": "5c2b",
+      "email": "donya.mirabdolahi@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "a6f2",
+      "email": "donya.mirabdolahi@gmail.com",
+      "password": "1234"
+    }
+  ]
+}
